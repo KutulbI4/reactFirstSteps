@@ -1,0 +1,16 @@
+.posts {
+    color: blue;
+    padding: 10px;
+}
+button {
+    width: 80px;
+    height: 30px;
+    border-radius: 3px;
+}
+.posts_button {
+    text-align: right;
+}
+textarea {
+    width: 100%;
+    height: 50px;
+}

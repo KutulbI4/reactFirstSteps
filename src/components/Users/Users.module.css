@@ -1,0 +1,24 @@
+.imgpoto {
+    width: 150px;
+}
+
+.item {
+    font-size: 24px;
+    font-weight: 700;
+}
+.getUsers {
+    text-align: center;
+    margin-bottom: 30px;
+    
+}
+.selectedPage {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.unselectedPage {
+    font-weight: normal;
+    margin-left: 5px;
+    margin-right: 5px;
+}
